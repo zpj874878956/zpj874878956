@@ -2,10 +2,10 @@
 <pre>
 业精于勤，荒于嬉
 </pre>
-| :------------: | :------------------------------------------------------- |
-| **博&emsp;客** | **<https://blog.zzppjj.top>**                            |
-| **图&emsp;床** | **<https://pic.zzppjj.top**          |
-|   **评论系统**   | **<https://artalk.zzppjj.top**                    |
+
+| **博客** | **<https://blog.zzppjj.top>**|
+| **图床** | **<https://pic.zzppjj.top**|
+|   **评论系统**   | **<https://artalk.zzppjj.top**|
 <p></p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" /></a>
